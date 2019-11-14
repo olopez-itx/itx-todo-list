@@ -1,0 +1,8 @@
+
+.App .shopping-list ul li{
+  list-style-type: none;
+}
+
+.add-car {
+  margin: 1em;
+}
